@@ -1,3 +1,3 @@
 week02
--linux command:ls, ls-al, pwd, cd, git, cs .., 
--git command: git init, git status, git config --global user.email"aaa@aaa.com", git config --global use.name "NAME", git commit -m"v0", git log
+-linux command:ls, ls-al, pwd, cd. git, cs .., echo "blah blah" >> README.md, cat README.md
+-git command: git init, git status, git config --global user.email"aaa@aaa.com", git config --global use.name "NAME", git commit -m"v0", git log.
