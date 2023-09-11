@@ -1,3 +1,4 @@
 week02
--linux command:ls, ls-al, pwd, cd. git, cs .., echo "blah blah" >> README.md, cat README.md
--git command: git init, git status, git config --global user.email"aaa@aaa.com", git config --global use.name "NAME", git commit -m"v0", git log.
+-linux command:ls, ls-al, pwd, cd. git, cs .., echo "blah blah" >> README.md, cat README.md, q, 
+-git command: git init, git status, git config --global user.email"aaa@aaa.com", git config --global use.name "NAME", git commit -m"v0", git log, gi branch -M main, git remote add origin http://~~~.git
+git remote -v, git push -u origin main, git master branch -M"""", git clone
